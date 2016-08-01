@@ -16,6 +16,6 @@ requests/
 .profile
 .python_history
 .ssh/
-mysite/settings.py	
+settings.py	
 .mysql_history
 database.json
